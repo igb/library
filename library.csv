@@ -1,4 +1,6 @@
 creator,title
+,Javascript pour les Kids
+,Writing GNU EMACs Extensions by Bob Glickstein
 Edwin A. Abbott,Flatland: A Romance of Many Dimensions
 Kobo Abe,The Box Man: A Novel
 Kobo Abe,The Woman in the Dunes
@@ -15,6 +17,8 @@ Theodor Adorno,Minima Moralia: Reflections from Damaged Life
 Gul Agha,Actors: A Model of Concurrent Computation in Distributed Systems
 Josef Albers,Interaction of Color
 "Jim Albert, Jay Bennett","Curve Ball: Baseball, Statistics, and the Role of Chance in the Game"
+"Carl Albing, JP Vossen, Cameron Newham",bash Cookbook: Solutions and Examples for bash Users (Cookbooks (O'Reilly))
+"Paul Albitz, Cricket Liu",DNS and BIND
 Nelson Algren,The Last Carousel
 "Nelson Algren, William J. Savage Jr., Daniel Simon",The Man with the Golden Arm (50th Anniversary Edition): 50th Anniversary Critical Edition
 "Teresa Amabile, Steven Kramer","The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work"
@@ -27,6 +31,7 @@ Jean Anouilh,"Ardele ou la marguerite, suivi de La valse des toréadors"
 Jean Anouilh,Ornifle Ou le Courant d'Air
 Jean Anouilh,Pauvre Bitos
 Dan Ariely,"Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions"
+Joe Armstrong,Programming Erlang: Software for a Concurrent World
 Isaac Asimov,Forward the Foundation
 Isaac Asimov,Foundation
 Isaac Asimov,Foundation and Earth
@@ -75,6 +80,7 @@ Thomas A. Bass,The Spy Who Loved Us: The Vietnam War and Pham Xuan An's Dangerou
 Georges Bataille,Literature and Evil
 Georges Bataille,Theory of Religion
 John Battelle,The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture
+Jean-Dominique Bauby,Le Scaphandre et le papillon
 "Charles Baudelaire, James McGowan",The Flowers of Evil
 Greg Bear,Eon
 "Samuel Beckett, S. E. Gontarski","The Complete Short Prose of Samuel Beckett, 1929-1989"
@@ -107,6 +113,7 @@ Henri Bergson,Matter and Memory
 Robert F. Berkhofer,The White Man's Indian: Images of the American Indian from Columbus to the Present
 Lucia Berlin,So Long: Stories 1987-1992
 Peter L. Bernstein,Against the Gods: The Remarkable Story of Risk
+Jacques Bertin,"Semiology of Graphics: Diagrams, Networks, Maps"
 "Ambrose Bierce, Ernest Jerome Hopkins",The Complete Short Stories of Ambrose Bierce
 Nick Bilton,"Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal"
 "Kenneth H. Blanchard, Spencer Johnson",The One Minute Manager
@@ -121,10 +128,12 @@ Jorge Luis Borges,Dreamtigers
 Jorge Luis Borges,Seven Nights
 "Jorge Luis Borges, Andrew Hurley",A Universal History of Iniquity
 Alain De Botton,The Consolations of Philosophy
+"Daniel P. Bovet, Marco Cesati","Understanding the Linux Kernel, Third Edition"
 John D. Boyd,A College Poetics
 Ray Bradbury,One More for the Road
 Ray Bradbury,A Sound of Thunder and Other Stories
 Ray Bradbury,The Stories of Ray Bradbury
+"Anna Branning, Mara Murphy, Dutch Door Press",Birds and Blooms of the 50 States
 Richard Brautigan,Revenge of the Lawn
 Richard Brautigan,"Richard Brautigan: A Confederate General from Big Sur, Dreaming of Babylon, and  the Hawkline Monster"
 Stephen Breyer,Active Liberty: Interpreting Our Democratic Constitution
@@ -133,6 +142,7 @@ Frederick P. Brooks Jr.,"The Mythical Man-Month: Essays on Software Engineering,
 Brené Brown,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"
 Dan Brown,The Lost Symbol
 Dee Brown,Bury My Heart at Wounded Knee: An Indian History of the American West
+Erik Brunetti,FUCT
 "John Bryant, Chris Sangwin",How Round Is Your Circle?: Where Engineering and Mathematics Meet
 Mark Buchanan,Nexus: Small Worlds and the Groundbreaking Science of Networks
 Stephen Budiansky,The Covenant of the Wild: Why Animals Chose Domestication
@@ -140,11 +150,13 @@ Charles Bukowski,"Burning in Water, Drowning in Flame"
 Charles Bukowski,Notes of a Dirty Old Man
 "Charles Bukowski, Gail Chiarrello",Tales of Ordinary Madness
 Thomas Bulfinch,"Bulfinch's Mythology: The Age of Fable, The Age of Chivalry, Legends of Charlemagne"
+"Tim Bunce, Alligator Descartes",Programming the Perl DBI: Database programming with Perl
 "Bryan Burrough, John Helyar",Barbarians at the Gate: The Fall of RJR Nabisco
 William S. Burroughs,Cities of the Red Night: A Novel
 William S. Burroughs,Junky
 William S. Burroughs,Naked Lunch
 William S. Burroughs,The Soft Machine
+Octavia E. Butler,Lilith's Brood
 Italo Calvino,The Baron In The Trees
 Italo Calvino,The Castle of Crossed Destinies
 Italo Calvino,Cosmicomics
@@ -174,6 +186,7 @@ Robert A. Caro,Means of Ascent
 Robert A. Caro,The Passage of Power: The Years of Lyndon Johnson
 Robert A. Caro,The Path to Power
 Robert A. Caro,The Power Broker: Robert Moses and the Fall of New York
+John le Carre,A Most Wanted Man: A Novel
 John le Carre,The Spy Who Came in from the Cold: A George Smiley Novel
 John le Carré,Call for the Dead: A George Smiley Novel
 John le Carré,The Honourable Schoolboy
@@ -193,6 +206,7 @@ Michael Chabon,The Amazing Adventures of Kavalier & Clay
 Michael Chabon,The Final Solution: A Story of Detection
 Michael Chabon,The Yiddish Policemen's Union
 Vikram Chandra,Sacred Games: A Novel
+"David A. Chappell, Tyler Jewell",Java Web Services: Using Java in Service-Oriented Architectures
 Satishchandra Chatterjee,Introduction to Indian Philosophy
 Arun Chaudhary,First Cameraman: Documenting the Obama Presidency in Real Time
 John Cheever,Bullet Park
@@ -200,8 +214,10 @@ John Cheever,The Stories of John Cheever
 "John Cheever, Franklin H. Dennis",Thirteen Uncollected Stories By John Cheever
 Ted Chiang,The Lifecycle of Software Objects
 Ted Chiang,Stories of Your Life & Others
+"Kristina Chodorow, Michael Dirolf",MongoDB: The Definitive Guide
 Neil A. Chriss,Black-Scholes and Beyond: Option Pricing Models
 Clayton M. Christensen,The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business
+"Tom Christiansen, Randal L. Schwartz, Larry Wall",Programming Perl
 Adam Christopher,Empire State
 Mark C. Chu-Carroll,"Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation"
 Robert B. Cialdini,"Influence: The Psychology of Persuasion, Revised Edition"
@@ -211,13 +227,17 @@ Les Claypool,South of the Pumphouse
 Ernest Cline,Ready Player One: A Novel
 Hillary Rodham Clinton,Hard Choices: A Memoir
 Ta-Nehisi Coates,Between the World and Me
+Ta-Nehisi Coates,Black Panther: A Nation Under Our Feet Book 1
 Andrei Codrescu,Zombification: Stories from National Public Radio
 Leonard Cohen,Beautiful Losers
 "Colette, Robert Phelps",Earthly Paradise: An Autobiography of Colette Drawn from Her Lifetime Writings
 "Jim Collins, Jerry I. Porras",Built to Last: Successful Habits of Visionary Companies
 Maryse Conde,Traversee de la Mangrove
 Benjamin Constant,Adolphe
+Alan Cooper,About Face: The Essentials of User Interface Design
 COPI,Symbolic Logic
+"Le Corbusier, Clemens Kroll, Arno Lederer",Chandigarh: Living with Le Corbusier
+"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein","Introduction to Algorithms, 3rd Edition"
 Julio Cortazar,Blow-Up: And Other Stories
 Julio Cortazar,Hopscotch: A Novel
 Douglas Coupland,Microserfs
@@ -226,6 +246,8 @@ Angus Croll,If Hemingway Wrote JavaScript
 Ron Currie,Everything Matters!: A Novel
 Haskell B. Curry,Foundations of Mathematical Logic
 Mark Z. Danielewski,House of Leaves
+Ian F. Darwin,Java Cookbook: Solutions and Examples for Java Developers
+"Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani",Algorithms
 Guy Davenport,7 Greeks
 Guy Davenport,Da Vinci's Bicycle: Ten Stories
 Guy Davenport,The Death of Picasso: New and Selected Writing
@@ -259,12 +281,27 @@ Cory Doctorow,A Place So Foreign and Eight More
 "Cory Doctorow, Charles Stross","The Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations"
 Cory Doctorow,"Someone Comes to Town, Someone Leaves Town"
 Richard Ellmann,James Joyce
+Joshua Engel,Programming for the Java¿ Virtual Machine
+"Benjamin J Evans, David Flanagan",Java in a Nutshell: A Desktop Quick Reference
+"Nicholas Felton, Sven Ehmann, Robert Klanten",Photoviz: Visualizing Information through Photography
+"Joseph Fink, Jeffrey Cranor",Welcome to Night Vale: A Novel
+"David Flanagan, Brett McLaughlin",Java 5.0 Tiger: A Developer's Notebook
+David Flanagan,JavaScript: The Definitive Guide: Activate Your Web Pages
+"Justin Gehtland, Ben Galbraith, Dion Almaer",Pragmatic Ajax: A Web 2.0 Primer
+"David Gourley, Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy",HTTP: The Definitive Guide
 Brandon Graham,King City
+Philip Greenspun,Philip & Alex's Guide to Web Publishing
+"Richard Grimmett, Carol Inskipp, Tim Inskipp","Birds of India, Pakistan, Nepal, Bangladesh, Bhutan, Sri Lanka and the Maldives"
 John Grisham,The Associate: A Novel
 Ursula  K. Le Guin,The Lathe Of Heaven: A Novel
 Ursula K. Le Guin,The Left Hand of Darkness
+"Ernest F. Haeussler, Richard P. Paul, Tech Laurel Technical Services, Ernest F Haeussler, Richard S. Paul, Tech Laurel","Introductory Mathematical Analysis for Business, Economics and Life and Social Sciences"
+"Stuart Halloway, Aaron Bedra",Programming Clojure
+"Stuart Halloway, Justin Gehtland",Rails for Java Developers
 "Curt Hibbs, Steve Jewett, Mike Sullivan",The Art of Lean Software Development
+"Jez Humble, David Farley","Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))"
 Christian Hundertmark,Art of Rebellion: The World of Street Art
+Jason Hunter,Java Servlet Programming
 "MindShare  Inc., Tom Shanley",Protected Mode Software Architecture
 John Irving,The 158-Pound Marriage
 John Irving,The Hotel New Hampshire
@@ -297,6 +334,7 @@ Immanuel Kant,Immanuel Kant's Critique of Pure Reason
 William Karush,Webster's New World Dictionary of Mathematics
 Walter Kaufmann,From Shakespeare to Existentialism
 Walter A. Kaufmann,"Nietzsche: Philosopher, Psychologist, Antichrist"
+Michael Kay,XPath 2.0 Programmer's Reference
 Doug Kaye,Loosely Coupled: The Missing Pieces of Web Services
 Etgar Keret,The Bus Driver Who Wanted To Be God & Other Stories
 Etgar Keret,The Girl on the Fridge: Stories
@@ -312,6 +350,7 @@ Tracy Kidder,The Soul of A New Machine
 Jaegwon Kim,Philosophy Of Mind
 Rudyard Kipling,Kim
 Walter Kirn,Up in the Air
+"Jon Kleinberg, Éva Tardos",Algorithm Design
 Chuck Klosterman,Chuck Klosterman IV: A Decade of Curious People and Dangerous Ideas
 Chuck Klosterman,Eating the Dinosaur
 Chuck Klosterman,Fargo Rock City: A Heavy Metal Odyssey in Rural North Dakota
@@ -321,19 +360,25 @@ Chuck Klosterman,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto"
 Karl Ove Knausgaard,My Struggle: Book 1
 Karl Ove Knausgaard,My Struggle: Book 2: A Man in Love
 James Knowlson,Damned to Fame: The Life of Samuel Beckett
+Jonathan Knudsen,Java 2D Graphics: Creating High Quality Graphics & Text
+Donald E. Knuth,"The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition"
 Richard Kraut,The Cambridge Companion to Plato
 Saul A. Kripke,Naming and Necessity
+"Budi Kurniawan, Paul Deck",How Tomcat Works
 Rachel Kushner,The Flamethrowers
 Madeleine L'Engle,A Wrinkle in Time: 50th Anniversary Commemorative Edition
 Pierre Choderlos de Laclos,Les Liasons Dangereuses
 Jhumpa Lahiri,Unaccustomed Earth
 Linda Lamb,Learning the vi Editor
 Jen Lancaster,"Bitter is the New Black: Confessions of a Condescending, Egomaniacal, Self-Centered Smartass, Or, Why You Should Never Carry A Prada Bag to the Unemployment Office"
+"Ian Langworth, chromatic",Perl Testing: A Developer's Notebook
 Phil Lapsley,Exploding the Phone: The Untold Story of the Teenagers and Outlaws who Hacked Ma Bell
+Erik Larson,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America"
 Stieg Larsson,The Girl Who Played with Fire
 Ann Leckie,Ancillary Justice
 Ann Leckie,Ancillary Mercy
 Ann Leckie,Ancillary Sword
+"Rosanna Lee, Scott Seligman",JNDI API Tutorial and Reference: Building Directory-Enabled Java¿ Applications
 Dennis Lehane,Sacred
 Fritz Leiber,The Big Time
 Fritz Leiber,Selected Stories
@@ -356,6 +401,7 @@ Mikhail Lermontov,Hero of our Time (Everyman's Library (Paper))
 Jonathan Lethem,"Gun, with Occasional Music"
 Steven Levy,Artificial Life: A Report from the Frontier Where Computers Meet Biology
 Leonard C. Lewin,Report from Iron Mountain
+"John Lewis, William Loftus",Java Software Solutions
 Michael Lewis,The Big Short: Inside the Doomsday Machine
 Michael Lewis,Flash Boys
 Michael Lewis,Liar's Poker
@@ -366,6 +412,7 @@ Sinclair Lewis,Babbit
 Sinclair Lewis,Main Street
 Mark Leyner,"Et Tu, Babe"
 Mark Leyner,"My Cousin, My Gastroenterologist: A novel"
+"Tim Lindholm, Frank Yellin",The Java™ Virtual Machine Specification
 Beth Lisick,Everybody into the Pool: True Tales
 Cixin Liu,The Dark Forest
 Cixin Liu,Death's End
@@ -379,12 +426,17 @@ Howard Phillips Lovecraft,The Call of Cthulhu and Other Weird Stories
 Simon Lovell,"How to Cheat at Everything: A Con Man Reveals the Secrets of the Esoteric Trade of Cheating, Scams, and Hustles"
 Roger Lowenstein,When Genius Failed: The Rise and Fall of Long-Term Capital Management
 Nancy Oestreich Lurie,"Mountain Wolf Woman, Sister of Crashing Thunder: The Autobiography of a Winnebago Indian"
+Mark Lutz,Programming Python: Powerful Object-Oriented Programming
 Mary Lydon,Skirting The Issue: Essays In Literary Theory
 Niccolò Machiavelli,The Prince
 Ben Macintyre,A Spy Among Friends: Kim Philby and the Great Betrayal
+Malcolm Macpherson,The Black Box: All-New Cockpit Voice Recorder Accounts Of In-flight Accidents
 "Bernd Magnus, Kathleen Higgins",The Cambridge Companion to Nietzsche
 Hooman Majd,The Ayatollah Begs to Differ: The Paradox of Modern Iran
+Ronald Mak,Java Number Cruncher: The Java Programmer's Guide to Numerical Computing
+"Dan Malks, Deepak Alur, John Crupi",Core J2EE Patterns: Best Practices and Design Strategies
 William Manchester,The Arms of Krupp 1587-1968
+Sal Mangano,XSLT Cookbook
 Charles C. Mann,1491: New Revelations of the Americas Before Columbus
 Thomas Mann,Buddenbrooks: The Decline of a Family
 Thomas Mann,Death in Venice and Other Stories
@@ -407,14 +459,17 @@ Ian McDonald,Ares Express
 Ian McDonald,Cyberabad Days
 Ian McDonald,The Dervish House
 Ian McDonald,Desolation Road
+Ian McDonald,Luna: New Moon
 Ian McDonald,River of Gods
 Ian McEwan,Solar
 "Bethany McLean, Peter Elkind",The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron
 Dennis McNally,A Long Strange Trip: The Inside History of the Grateful Dead
 Jon Meacham,Thomas Jefferson: The Art of Power
+David Megginson,"Imperfect XML: Rants, Raves, Tips, and Tricks ... from an Insider"
 Herman Melville,Billy Budd and Other Stories
 Herman Melville,Moby-Dick
 "Daniel A. Menasce, Lawrence W. Dowdy, Virgilio A.F. Almeida",Performance by Design: Computer Capacity Planning By Example
+Marc Mercuri,Beginning Information Cards and CardSpace: From Novice to Professional
 David Michaelis,Schulz and Peanuts: A Biography
 China Mieville,Embassytown
 China Mieville,King Rat
@@ -428,6 +483,7 @@ China Miéville,The Scar
 China Miéville,Un Lun Dun
 Barry Miles,William Burroughs: El Hombre Invisible
 Walter M. Miller Jr.,A Canticle for Leibowitz
+Jason Miller,Red Dog: A Slim in Little Egypt Mystery
 Czeslaw Milosz,Road-side Dog
 Milton,"The Portable Milton (Includes Paradise Lost, Paradise Regained, Samson Agonistes and Comus; All Early poems and Sonnets; Areopagitia, and more))"
 M. Minnaert,The Nature of Light and Colour in the Open Air
@@ -448,6 +504,7 @@ Paul Morand,Champions du Monde
 Desmond Morris,The Human Zoo
 Desmond Morris,The Naked Ape
 Peter Morville,Ambient Findability: What We Find Changes Who We Become
+"Jon Mountjoy, Avinash Chugh",WebLogic: The Definitive Guide
 Haruki Murakami,The Elephant Vanishes: Stories
 Charles Murray,"Coming Apart: The State of White America, 1960-2010"
 Peter Nabokov,Native American Testimony: A Chronicle of Indian-White Relations from Prophecy to the Present
@@ -460,7 +517,9 @@ Friedrich Nietzsche,Philosophical Writings: Friedrich Nietzsche
 Friedrich Nietzsche,The Portable Nietzsche
 Anaïs Nin ,Delta of Venus
 Trevor Noah,Born a Crime: Stories from a South African Childhood
+Peter Norvig,Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp
 Joyce Carol Oates,"Wild Nights! Deluxe Edition: Stories About the Last Days of Poe, Dickinson, Twain, James, and Hemingway"
+Chris Okasaki,Purely Functional Data Structures
 "Andy Oram, Greg Wilson",Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly))
 George Orwell,1984
 George Orwell,Animal Farm
@@ -471,8 +530,10 @@ Rajesh Parameswaran,I Am an Executioner: Love Stories
 Alan Paton,"Cry, the Beloved Country"
 Milorad Pavic,"Dictionary of the Khazars: A Lexicon Novel in 100,000 Words"
 Matt Pearson,Generative Art: A Practical Guide Using Processing
+"Jerry Peek, Tim O'Reilly, Mike Loukides",UNIX  PowerTools
 "Roger Penrose, Martin Gardner","The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics"
 Charles Perrault,Contes
+"Elizabeth Xu Ph.D., Patricia Zimmerman",Myths of the Promotion: 10 Steps to a Successful Career
 Tom Phillips,"A Humument: A Treated Victorian Novel, Fourth Edition"
 James Smith Pierce,From Abacus to Zeus 5ED
 Thomas Piketty,Capital in the Twenty First Century
@@ -484,6 +545,7 @@ Ezra Pound,The Cantos of Ezra Pound
 Gareth L Powell,Ack-Ack Macaque
 Gareth L Powell,Hive Monkey
 Gareth L. Powell,Macaque Attack!
+"Adobe Press, Andrew Faulkner",Official Adobe Electronic Publishing Guide: The Essential Resource for Electronic Publishing
 Jacques Prevert,Paroles
 Antoine-Francois Prevost,Histoire du chevalier Des Greux et de Manon Lescaut
 David A. Price,The Pixar Touch: The Making of a Company
@@ -526,14 +588,18 @@ Alastair Reynolds,Revelation Space
 Alastair Reynolds,Slow Bullets
 Alastair Reynolds,Terminal World
 Alastair Reynolds,Troika
+Paul Richins Jr.,50 Classic Backcountry Ski and Snowboard Summits in California: Mount Shasta to Mount Whitney
 Matt Ridley,The Red Queen: Sex and the Evolution of Human Nature
 "Tim Riley, Adam Goucher",Beautiful Testing: Leading Professionals Reveal How They Improve Software
 Mary Roach,Stiff: The Curious Lives of Human Cadavers
+Arnold Robbins,vi Editor Pocket Reference (Pocket Reference (O'Reilly))
 Kim Stanley Robinson,Aurora
+Lawrence H. Rodrigues,"Building Imaging Applications with Java(TM) Technology: Using AWT Imaging, Java 2D(TM), and Java(TM) Advanced Imaging (JAI)"
 Phyllis Rose,The Shelf: From LEQ to LES: Adventures in Extreme Reading
 John D. Rosenberg,The Genius of John Ruskin: Selections from His Writings
 Scott Rosenberg,"Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software"
 Leo Rosten,The Joys of Yiddish
+Roxy,Surf Girl Roxy
 Juan Rulfo,Pedro Paramo
 Salman Rushdie,Midnight's Children: A Novel
 Salman Rushdie,Two Years Eight Months and Twenty-Eight Nights: A Novel
@@ -542,6 +608,7 @@ Bertrand Russell,Introduction to Mathematical Philosophy
 Marquis de Sade,Juliette
 J.D. Salinger,The Catcher in the Rye
 Sheryl Sandberg,"Lean In: Women, Work, and the Will to Lead"
+Aksel Sandemose,The Werewolf
 Luc Sante,Low Life: Lures and Snares of Old New York
 Nathalie Sarraute,Childhood
 Jean-Paul Sartre,Anti-Semite and Jew: An Exploration of the Etiology of Hate
@@ -562,6 +629,7 @@ George Saunders,Tenth of December: Stories
 "Elias E. Savellos, Umit D. Yalcin",Supervenience: New Essays
 John Scalzi,Redshirts: A Novel with Three Codas
 Richard Schacht,"Nietzsche, Genealogy, Morality: Essays on Nietzsche's On the Genealogy of Morals"
+Kate Schatz,"Rad Women Worldwide: Artists and Athletes, Pirates and Punks, and Other Revolutionaries Who Shaped History"
 Wolfgang Schirmacher,Philosophical Writings: Arthur Schopenhauer
 "Eric Schmidt, Jonathan Rosenberg",How Google Works
 Arthur Schopenhauer,On the Basis of Morality
@@ -569,19 +637,25 @@ Arthur Schopenhauer,"The World as Will and Representation, Vol. 1"
 Arthur Schopenhauer,"The World as Will and Representation, Vol. 2"
 Bruno Schulz,Sanatorium Under the Sign of the Hourglass
 Bruno Schulz,The Street of Crocodiles
+Joseph A. Schumpeter,"Capitalism, Socialism, and Democracy: Third Edition"
 Ken Schwaber,Agile Project Management with Scrum
 Chris  Matthew Sciabarra,Ayn Rand: The Russian Radical
 Roger Scruton,A Short History of Modern Philosophy: From Descartes to Wittgenstein
+"Robert W. Sebesta, Addison Wesley",Concepts of Programming Languages
 Alice Sebold,The Lovely Bones
 David Sedaris,Me Talk Pretty One Day
 David Sedaris,When You Are Engulfed in Flames
+"Robert Sedgewick, Kevin Wayne",Algorithms
+Robert Sedgewick,"Algorithms in Java, Part 5: Graph Algorithms"
 "Toby Segaran, Jeff Hammerbacher",Beautiful Data: The Stories Behind Elegant Data Solutions
+Toby Segaran,Programming Collective Intelligence: Building Smart Web 2.0 Applications
 Peter Seibel,Coders at Work: Reflections on the Craft of Programming
 Lucius Annaeus Seneca,Letters from a Stoic
 William Shakespeare,The Complete Works of William Shakespeare Volume 1
 John Shand,Philosophy and Philosophers: An Introduction to Western Philosophy
 "Claude E Shannon, Warren Weaver, Shannon",The Mathematical Theory of Communication
 "Robert Shapard, James Thomas",Flash Fiction Forward: 80 Very Short Stories
+"Dave Shea, Molly E. Holzschlag",The Zen of CSS Design: Visual Enlightenment for the Web
 Jim Shepard,"Like You'd Understand, Anyway"
 William L Shirer,Collapse of the Third Republic: An Inquiry into the Fall of France in 1940
 William L. Shirer,The Rise and Fall of the Third Reich: A History of Nazi Germany
@@ -606,21 +680,30 @@ Scott Simon,"Unforgettable: A Son, a Mother, and the Lessons of a Lifetime"
 Simon Singh,The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
 George Singleton,The Half-Mammals of Dixie
 Eric Sink,Eric Sink on the Business of Software
+Evan Slater,Swell: A Year of Waves
+"Mark Smith, Timothy A. Howes Ph.D.",LDAP: Programming Directory-Enabled Apps
 Richard E. Smith,Internet Cryptography
 Kevin Smokler,Bookmark Now: Writing in Unreaderly Times: A Collection of All Original Essays from Today's (and Tomorrow's) Young Authors on the State of the Art ... Hustle--in the Age of Information Overload
 Dava Sobel,Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time
 Mark G. Sobell,A Practical Guide to the UNIX System
 Rebecca Solnit,Infinite City: A San Francisco Atlas
 Rebecca Solnit,Men Explain Things to Me
+Rebecca Solnit,A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster
 Susan Sontag,Death Kit
 Susan Sontag,On Photography
 "Sophocles, Henry Taylor, Armand Schwerner, Brendan Galvin, David R. Slavitt","Sophocles, 1 : Ajax, Women of Trachis, Electra, Philoctetes"
+Steve Souders,High Performance Web Sites: Essential Knowledge for Front-End Engineers
 Albert Speer,Inside the Third Reich
 Albert Speer,Spandau: The Secret Diaries
 "Diomidis Spinellis, Georgios Gousios",Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design
 Avram Joel Spolsky,The Best Software Writing I: Selected and Introduced by Joel Spolsky
+Avram Joel Spolsky,"More Joel on Software: Further Thoughts on  Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, ... or Ill Luck, Work with Them in Some Capacity"
 Avram Joel Spolsky,Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent
 Joel Spolsky,"Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity"
+Sriram Srinivasan,Advanced Perl Programming
+"Simon Stalenhag, Simon Stålenhag",Tales from the Loop
+Simon Stålenhag,Things from the Flood
+Jim Starlin,Cosmic Odyssey
 John Steinbeck,The Grapes of Wrath
 John Steinbeck,"Steinbeck, The Short Novels of John"
 John Steinbeck,The Winter Of Our Discontent
@@ -666,8 +749,12 @@ David Talbot,"Season of the Witch: Enchantment, Terror, and Deliverance in the C
 Nassim Nicholas Taleb,Antifragile: Things That Gain from Disorder
 Nassim Nicholas Taleb,"The Black Swan: Second Edition: The Impact of the Highly Improbable: With a new section: ""On Robustness and Fragility"""
 Andrew S. Tanenbaum,Modern Operating Systems
+Bruce Tate,Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages
+"Bruce Tate, Justin Gehtland",Spring: A Developer's Notebook
 "Alexander Taub, Ellen DaSilva","Pitching and Closing: Everything You Need to Know About Business Development, Partnerships, and Making Deals that Matter"
+Adobe Creative Team,Official Adobe Print Publishing Guide
 "Dennis Tedlock, Barbara Tedlock",Teachings from the American Earth: Indian Religion and Philosophy
+"Toby J. Teorey, Sam S. Lightstone, Tom Nadeau, H.V. Jagadish","Database Modeling and Design, Fifth Edition: Logical Design"
 Studs Terkel,Hard Times: An Oral History of the Great Depression
 "Thucydides, M. I. Finley",History of the Peloponnesian War
 James Tiptree Jr.,Her Smoke Rose Up Forever
@@ -677,6 +764,10 @@ John Toland,"Adolf Hitler, Vol. 1"
 John Kennedy Toole,A Confederacy of Dunces
 "Linus Torvalds, David Diamond",Just for Fun: The Story of an Accidental Revolutionary
 Bruce Tremper,"Staying Alive in Avalanche Terrain, 2nd Ed."
+Edward R. Tufte,Beautiful Evidence
+Edward R. Tufte,Envisioning Information
+Edward R. Tufte,The Visual Display of Quantitative Information
+Edward R. Tufte,"Visual Explanations: Images and Quantities, Evidence and Narrative"
 Homer Ulrich,Symphonic Music
 John Updike,The Coup: A Novel
 John Updike,Rabbit at Rest
@@ -721,17 +812,22 @@ Sarah Vowell,Take the Cannoli: Stories From the New World
 Sarah Vowell,The Wordy Shipmates
 Frans B. M. de Waal,Good Natured: The Origins of Right and Wrong in Humans and Other Animals
 M. Mitchell Waldrop,Complexity: The Emerging Science at the Edge of Order and Chaos
+"Larry Wall, Tom Christiansen, Jon Orwant",Programming Perl
+"Craig Walls, Ryan Breidenbach",Spring in Action
 "David Ward, Noel Radomski",Proud Traditions and Future Challenges: The University of Wisconsin–Madison Celebrates 150 Years
 Dean Wareham,Black Postcards: A Rock & Roll Romance
 "David Weinberger, Rick Levine, Christopher Locke, Doc Searls",The Cluetrain Manifesto
 Nathanael West,Miss Lonelyhearts & the Day of the Locust
 Scott Westerfeld,The Killing of Worlds: Book Two of Succession
 Scott Westerfeld,The Risen Empire
+"Mark Wilcox, Marc Wilcox",Implementing LDAP
 Sam Williams,Free as in Freedom: Richard Stallman's Crusade for Free Software
 Edwin Williamson,Borges: A Life
 Connie Willis,All Clear
 Connie Willis,Blackout
 "Paul Wilmott, Sam Howison, Jeff Dewynne",The Mathematics of Financial Derivatives: A Student Introduction
+Laura Wingerd,Practical Perforce: Channeling the Flow of Change in Software Development Collaboration
+Patrick Winston,Artificial Intelligence
 "Patrick Winston, Berthold Horn",Lisp
 Ben H. Winters,Countdown City: The Last Policeman Book II
 Ben H. Winters,The Last Policeman
@@ -749,6 +845,7 @@ Virginia Woolf,Mrs. Dalloway
 Virginia Woolf,A Room of One's Own
 J. Patrick Wright,On a Clear Day You Can See General Motors: John Z. DeLorean's Look Inside the Automotive Giant
 Toby Young,How to Lose Friends & Alienate People
+Nicholas C. Zakas,Professional JavaScript for Web Developers
 Roger Zelazny,Creatures of Light and Darkness
 Roger Zelazny,"The Doors of His Face, The Lamp of His Mouth"
 Roger Zelazny,"The Great Book of Amber: The Complete Amber Chronicles, 1-10"
