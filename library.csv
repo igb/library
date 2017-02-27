@@ -1,4 +1,5 @@
 creator,title
+,
 ,Javascript pour les Kids
 ,Writing GNU EMACs Extensions by Bob Glickstein
 Edwin A. Abbott,Flatland: A Romance of Many Dimensions
@@ -21,6 +22,8 @@ Josef Albers,Interaction of Color
 "Paul Albitz, Cricket Liu",DNS and BIND
 Nelson Algren,The Last Carousel
 "Nelson Algren, William J. Savage Jr., Daniel Simon",The Man with the Golden Arm (50th Anniversary Edition): 50th Anniversary Critical Edition
+Dante Alighieri,The Inferno
+Dante Alighieri,The Inferno
 "Teresa Amabile, Steven Kramer","The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work"
 Scott W. Ambler,The Elements of UML(TM) 2.0 Style
 Kingsley Amis,The Alteration
@@ -272,6 +275,7 @@ Charles Dickens,David Copperfield
 Charles Dickens,Great Expectations
 Charles Dickens,A Tale of Two Cities
 Colin Dickey,Cranioklepty: Grave Robbing and the Search for Genius
+Franklin W. Dixon,The Secret of Wildcat Swamp
 Cory Doctorow,Down and Out in the Magic Kingdom
 Cory Doctorow,Eastern Standard Tribe
 Cory Doctorow,Information Doesn't Want to Be Free: Laws for the Internet Age
@@ -280,13 +284,71 @@ Cory Doctorow,Overclocked: Stories of the Future Present
 Cory Doctorow,A Place So Foreign and Eight More
 "Cory Doctorow, Charles Stross","The Rapture of the Nerds: A tale of the singularity, posthumanity, and awkward social situations"
 Cory Doctorow,"Someone Comes to Town, Someone Leaves Town"
+Wendy Doniger,The Hindus: An Alternative History
+Fyodor Dostoyevsky,The Brothers Karamazov
+Arthur Conan Doyle,The Original Illustrated Sherlock Holmes
+Peter F. Drucker,The Effective Executive: The Definitive Guide to Getting the Right Things Done
+Lena Dunham,"Not That Kind of Girl: A Young Woman Tells You What She's ""Learned"""
+Mark Dunn,Ella Minnow Pea: A Novel in Letters
+George Dyson,Turing's Cathedral: The Origins of the Digital Universe
+David Eagleman,Sum: Forty Tales from the Afterlives
+Terry Eagleton,Literary Theory: An Introduction
+Umberto Eco,Baudolino
+Umberto Eco,Foucault's Pendulum
+"Umberto Eco, Diane Sterling, William Weaver",How to Travel with a Salmon & Other Essays
+Umberto Eco,The Island of the Day Before
+Umberto Eco,The Name of the Rose
+Umberto Eco,Numero Zero
+Umberto Eco,The Prague Cemetery
+Umberto Eco,Serendipities: Language and Lunacy
+Greg Egan,Axiomatic: Short Stories of Science Fiction
+Dave Eggers,The Circle
+Chris Elliott,The Shroud of the Thwacker
 Richard Ellmann,James Joyce
+James Ellroy,Destination: Morgue!: L.A. Tales
 Joshua Engel,Programming for the Java¿ Virtual Machine
 "Benjamin J Evans, David Flanagan",Java in a Nutshell: A Desktop Quick Reference
+Philip Jose Farmer,The Dark Design
+Philip Jose Farmer,The Magic Labyrinth
+Philip Jose Farmer,Riverworld: Including To Your Scattered Bodies Go & The Fabulous Riverboat
+Stefan Fatsis,"Word Freak: Heartbreak, Triumph, Genius, and Obsession in the World of Competitive Scrabble Players"
+William Faulkner,"Absalom, Absalom!"
+William Faulkner,As I Lay Dying: The Corrected Text
+"William Faulkner, Noel Polk",Light in August
+William Faulkner,Sanctuary
+William Faulkner,The Sound and the Fury
+John Feinstein,A Good Walk Spoiled: Days and Nights on the PGA Tour
+Adam Felber,Schrodinger's Ball: A Novel by Adam Felber
 "Nicholas Felton, Sven Ehmann, Robert Klanten",Photoviz: Visualizing Information through Photography
+"Charles Ferguson, Charles H. Ferguson","High Stakes, No Prisoners : A Winner's Tale of Greed and Glory in the Internet Wars"
+Niall Ferguson,The Ascent of Money: A Financial History of the World
+Niall Ferguson,Civilization: The West and the Rest
+Niall Ferguson,Colossus: The Rise and Fall of the American Empire
+Niall Ferguson,The Great Degeneration: How Institutions Decay and Economies Die
+"Richard P. Feynman, Ralph Leighton","""What Do You Care What Other People Think?"": Further Adventures of a Curious Character"
+"Richard P. Feynman, Robert B. Leighton, Matthew Sands",Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher
 "Joseph Fink, Jeffrey Cranor",Welcome to Night Vale: A Novel
+F. Scott Fitzgerald,The Great Gatsby
+F. Scott Fitzgerald,The Love of the Last Tycoon
+F. Scott Fitzgerald,Tender Is the Night
+F. Scott Fitzgerald,This Side of Paradise
+Gary William Flake,"The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation"
 "David Flanagan, Brett McLaughlin",Java 5.0 Tiger: A Developer's Notebook
 David Flanagan,JavaScript: The Definitive Guide: Activate Your Web Pages
+Gustave Flaubert,Trois Contes (Folio (Gallimard)) (French Edition)
+Ian Fleming,Octopussy and The Living Daylights
+Paul Ford,"Gary Benchley, Rock Star by Paul Ford"
+Chad Fowler,The Passionate Programmer: Creating a Remarkable Career in Software Development
+"Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts",Refactoring: Improving the Design of Existing Code
+Anatole France,THE CRIME OF SYLVESTRE BONNARD by ANATOLE FRANCE
+Gottlob Frege,The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number
+Thomas L. Friedman,The World Is Flat 3.0: A Brief History of the Twenty-first Century
+François Furet,Revolutionary France 1770-1880
+Jostein Gaarder,Sophie's World: A Novel About the History of Philosophy
+Neil Gaiman,American Gods: A Novel
+Neil Gaiman,Neverwhere
+Neil Gaiman,The Ocean at the End of the Lane: A Novel
+Neil Gaiman,Stardust
 "Justin Gehtland, Ben Galbraith, Dion Almaer",Pragmatic Ajax: A Web 2.0 Primer
 "David Gourley, Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy",HTTP: The Definitive Guide
 Brandon Graham,King City
