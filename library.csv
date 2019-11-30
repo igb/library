@@ -2,6 +2,7 @@ creator,title
 Edwin A. Abbott,Flatland: A Romance of Many Dimensions
 Kobo Abe,The Box Man: A Novel
 Kobo Abe,The Woman in the Dunes
+"Jessica Abel, Ira Glass",Radio: An Illustrated Guide
 "Harold Abelson, Gerald Jay Sussman",Structure and Interpretation of Computer Programs - 2nd Edition
 Chinua Achebe,Arrow of God
 Chinua Achebe,No Longer at Ease
@@ -19,6 +20,7 @@ Josef Albers,Interaction of Color
 "Jim Albert, Jay Bennett","Curve Ball: Baseball, Statistics, and the Role of Chance in the Game"
 "Carl Albing, JP Vossen, Cameron Newham",bash Cookbook: Solutions and Examples for bash Users (Cookbooks (O'Reilly))
 "Paul Albitz, Cricket Liu",DNS and BIND
+Alan Alda,"If I Understood You, Would I Have This Look on My Face?: My Adventures in the Art and Science of Relating and Communicating"
 Nelson Algren,The Last Carousel
 "Nelson Algren, William J. Savage Jr., Daniel Simon",The Man with the Golden Arm (50th Anniversary Edition): 50th Anniversary Critical Edition
 Dante Alighieri,The Inferno
@@ -27,12 +29,12 @@ Dante Alighieri,The Inferno
 Scott W. Ambler,The Elements of UML(TM) 2.0 Style
 Kingsley Amis,The Alteration
 Kingsley Amis,The Green Man
-Henri Troyat Translated By Nancy Amphoux.,Tolstoy a Biography.
 Julia Angwin,Stealing MySpace: The Battle to Control the Most Popular Website in America
 Jean Anouilh,Antigone
 Jean Anouilh,"Ardele ou la marguerite, suivi de La valse des toréadors"
 Jean Anouilh,Ornifle Ou le Courant d'Air
 Jean Anouilh,Pauvre Bitos
+Guillaime Apollinaire,"L'Enchanteur Pourrissant, Suivi De Les Mamelles (Poesie/Gallimard) by Apollinaire (1972-02-01)"
 Dan Ariely,"Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions"
 Joe Armstrong,Programming Erlang: Software for a Concurrent World
 Isaac Asimov,Forward the Foundation
@@ -42,6 +44,7 @@ Isaac Asimov,Foundation and Empire
 Isaac Asimov,Foundation's Edge
 Isaac Asimov,"Isaac Asimov: The Complete Stories, Vol. 1"
 Isaac Asimov,Second Foundation
+Reza Aslan,God: A Human History
 Reza Aslan,Zealot: The Life and Times of Jesus of Nazareth
 Margaret Atwood,The Blind Assassin: A Novel
 Margaret Atwood,The Handmaid's Tale
@@ -121,6 +124,7 @@ Henri Bergson,Matter and Memory
 "George Berkeley, Robert Merrihew Adams",Three Dialogues Between Hylas and Philonous
 Robert F. Berkhofer,The White Man's Indian: Images of the American Indian from Columbus to the Present
 Leslie Berlin,The Man Behind the Microchip: Robert Noyce and the Invention of Silicon Valley
+Leslie Berlin,Troublemakers: Silicon Valley's Coming of Age
 Lucia Berlin,So Long: Stories 1987-1992
 Peter L. Bernstein,Against the Gods: The Remarkable Story of Risk
 Jacques Bertin,"Semiology of Graphics: Diagrams, Networks, Maps"
@@ -198,6 +202,8 @@ Robert A. Caro,Means of Ascent
 Robert A. Caro,The Passage of Power: The Years of Lyndon Johnson
 Robert A. Caro,The Path to Power
 Robert A. Caro,The Power Broker: Robert Moses and the Fall of New York
+Robert A. Caro,Working
+John Le Carre,A Delicate Truth
 John le Carré,Agent Running in the Field: A Novel
 John le Carré,Call for the Dead: A George Smiley Novel
 John le Carré,The Honourable Schoolboy
@@ -265,6 +271,7 @@ Julio Cortazar,Hopscotch: A Novel
 Douglas Coupland,Microserfs
 "Michael Crichton, Richard Preston",Micro: A Novel
 Angus Croll,If Hemingway Wrote JavaScript
+Alan Cumming,You Gotta Get Bigger Dreams: My Life in Stories and Pictures
 Ron Currie,Everything Matters!: A Novel
 Haskell B. Curry,Foundations of Mathematical Logic
 Mark Z. Danielewski,House of Leaves
@@ -279,7 +286,6 @@ Guy Davenport,Twelve Stories
 Professor Guy Davenport,The Jules Verne Steam Balloon
 Martin Davis,Engines of Logic: Mathematicians and the Origin of the Computer
 Prof. Martin Davis,Computability and Unsolvability
-Mahāśvetā Debī,Till death do us part: Five stories
 Samuel R. Delany,Dhalgren
 Don Delillo,Ratner's Star
 Don DeLillo,Mao II: A Novel
@@ -290,6 +296,7 @@ Daniel C. Dennett,Brainstorms: Philosophical Essays on Mind and Psychology
 "Jacques Derrida, Peggy Kamuf",A Derrida Reader: Between the Blinds
 Rene Descartes,"Discourse on Method and Meditations on First Philosophy, 4th Ed."
 "Rene Descartes, Benedict de Spinoza, Gottfried Wilhelm Vo Leibniz",The Rationalists: Descartes: Discourse on Method & Meditations; Spinoza: Ethics; Leibniz: Monadology & Discourse on Metaphysics
+Mahāśvetā Devi,Till death do us part: Five stories
 Mahasweta Devi,Mother of 1084
 "Philip K. Dick, Jonathan Lethem",Philip K. Dick: Four Novels of the 1960s
 Charles Dickens,David Copperfield
@@ -311,6 +318,7 @@ Arthur Conan Doyle,The Original Illustrated Sherlock Holmes
 Peter F. Drucker,The Effective Executive: The Definitive Guide to Getting the Right Things Done
 Lena Dunham,"Not That Kind of Girl: A Young Woman Tells You What She's ""Learned"""
 Mark Dunn,Ella Minnow Pea: A Novel in Letters
+Marguerite Duras,Moderato Cantabile
 George Dyson,Turing's Cathedral: The Origins of the Digital Universe
 David Eagleman,Sum: Forty Tales from the Afterlives
 Terry Eagleton,Literary Theory: An Introduction
@@ -327,6 +335,7 @@ Greg Egan,Axiomatic: Short Stories of Science Fiction
 Dave Eggers,The Circle
 "Linda Elder, Richard Paul",The Art of Asking Essential Questions: Based on Critical Thinking Concepts and Socratic Principles
 Chris Elliott,The Shroud of the Thwacker
+Charles D. Ellis,The Partnership: The Making of Goldman Sachs
 Richard Ellmann,James Joyce
 James Ellroy,Destination: Morgue!: L.A. Tales
 Mathias Énard,Compass
@@ -427,6 +436,7 @@ Richard E. Goodkin,Around Proust
 Angelica Gorodischer,Trafalgar
 "David Gourley, Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy",HTTP: The Definitive Guide
 Robert B. Grady,Practical Software Metrics for Project Management and Process Improvement
+David Graeber,"The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy"
 Brandon Graham,King City
 Kenneth Grahame,The Wind in the Willows
 Steve Grand,Creation: Life and How to Make It
@@ -440,6 +450,7 @@ Graham Greene,Our Man in Havana: An Entertainment
 Graham Greene,The Third Man
 Philip Greenspun,Philip & Alex's Guide to Web Publishing
 Dr. John Gribbin,The Birth of Time: How Astronomers Measured the Age of the Universe
+Tren Griffin,Charlie Munger: The Complete Investor
 Alain Robbe Grillet,Les Gommes
 "Richard Grimmett, Carol Inskipp, Tim Inskipp","Birds of India, Pakistan, Nepal, Bangladesh, Bhutan, Sri Lanka and the Maldives"
 John Grisham,The Associate: A Novel
@@ -480,6 +491,7 @@ Frank Herbert,Children of Dune
 Frank Herbert,The Dosadi Experiment
 Frank Herbert,Dune Messiah
 Frank Herbert,God Emperor of Dune
+Frank Herbert,Heretics of Dune
 Herodotus,Herodotus: The History
 Michael Herr,Dispatches
 "Vincent P. Heuring, Harry F. Jordan",Computer Systems Design and Architecture
@@ -502,7 +514,6 @@ John Hull,Introduction to Futures and Options Markets
 Christian Hundertmark,Art of Rebellion: The World of Street Art
 Jason Hunter,Java Servlet Programming
 Aldous Huxley,Brave New World
-"MindShare  Inc., Tom Shanley",Protected Mode Software Architecture
 "Eugene Ionesco, Gallimard Folio edition","La Cantatrice Chauve + La Lecon by Ionesco, Eugene"
 "Eugene Ionesco, Tamar March, Lillian Bulwa",La Cantatrice chauve/La Leçon
 "Eugene Ionesco, Reuben Y. Ellison, Stowell C. Goding",Rhinocéros
@@ -551,6 +562,7 @@ Walter Kaufmann,From Shakespeare to Existentialism
 Walter A. Kaufmann,"Nietzsche: Philosopher, Psychologist, Antichrist"
 Michael Kay,XPath 2.0 Programmer's Reference
 Doug Kaye,Loosely Coupled: The Missing Pieces of Web Services
+John Keene,Annotations
 John Keene,Counternarratives
 Etgar Keret,The Bus Driver Who Wanted To Be God & Other Stories
 Etgar Keret,The Girl on the Fridge: Stories
@@ -579,6 +591,7 @@ Chuck Klosterman,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto"
 Karl Ove Knausgaard,My Struggle: Book 1
 Karl Ove Knausgaard,My Struggle: Book 2: A Man in Love
 Karl Ove Knausgaard,My Struggle: Book 3
+Karl Ove Knausgaard,My Struggle: Book 4
 James Knowlson,Damned to Fame: The Life of Samuel Beckett
 Jonathan Knudsen,Java 2D Graphics: Creating High Quality Graphics & Text
 Donald E. Knuth,"The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition"
@@ -619,6 +632,7 @@ Stanislaw Lem,Peace on Earth
 Stanislaw Lem,Solaris
 Stanislaw Lem,The Star Diaries
 Stanislaw Lem,Tales of Pirx the Pilot
+E. J. Lemmon,Beginning Logic
 Mikhail Lermontov,Hero of our Time (Everyman's Library (Paper))
 Jonathan Lethem,"Gun, with Occasional Music"
 Steven Levy,Artificial Life: A Report from the Frontier Where Computers Meet Biology
@@ -641,6 +655,7 @@ Beth Lisick,Everybody into the Pool: True Tales
 Cixin Liu,The Dark Forest
 Cixin Liu,Death's End
 Cixin Liu,The Three-Body Problem
+Ken Liu,Invisible Planets: Contemporary Chinese Science Fiction in Translation
 Larry Livermore,How To Ru(i)n A Record Label: The Story of Lookout Records
 "John Locke, George Berkeley, David Hume",The Empiricists: Locke: Concerning Human Understanding; Berkeley: Principles of Human Knowledge & 3 Dialogues; Hume: Concerning Human Understanding & Concerning Natural Religion
 Lomography.com,Lomography.com
@@ -666,7 +681,6 @@ Thomas Mann,Buddenbrooks: The Decline of a Family
 Thomas Mann,Death in Venice and Other Stories
 Thomas Mann,The Magic Mountain
 Eli Maor,e: The Story of a Number
-"Duras Marguerite, Marguerite Duras",Moderato Cantabile
 Marivaux,Le Jeu De l'Amour Et Du Hasard
 Yann Martel,Life of Pi
 George R. R. Martin,A Clash of Kings
@@ -729,11 +743,13 @@ Simon Sebag Montefiore,Stalin: The Court of the Red Tsar
 Montesquieu,Lettres Persanes
 Geoffrey A. Moore,"Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers"
 Geoffrey A. Moore,Zone to Win: Organizing to Compete in an Age of Disruption
+Lorrie Moore,Birds of America: Stories
 Paul Morand,Champions du Monde
 Nick Morgan,Javascript pour les Kids
 Desmond Morris,The Human Zoo
 Desmond Morris,The Naked Ape
 Peter Morville,Ambient Findability: What We Find Changes Who We Become
+Benjamin Moser,Sontag: Her Life and Work
 "Jon Mountjoy, Avinash Chugh",WebLogic: The Definitive Guide
 Haruki Murakami,The Elephant Vanishes: Stories
 Charles Murray,"Coming Apart: The State of White America, 1960-2010"
@@ -831,7 +847,6 @@ Andrew Roberts,Churchill: Walking with Destiny
 Kim Stanley Robinson,Aurora
 Lawrence H. Rodrigues,"Building Imaging Applications with Java(TM) Technology: Using AWT Imaging, Java 2D(TM), and Java(TM) Advanced Imaging (JAI)"
 Phyllis Rose,The Shelf: From LEQ to LES: Adventures in Extreme Reading
-John D. Rosenberg,The Genius of John Ruskin: Selections from His Writings
 Scott Rosenberg,"Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software"
 Leo Rosten,The Joys of Yiddish
 Roxy,Surf Girl Roxy
@@ -839,6 +854,7 @@ Juan Rulfo,Pedro Paramo
 Salman Rushdie,Midnight's Children: A Novel
 Salman Rushdie,Two Years Eight Months and Twenty-Eight Nights: A Novel
 Douglas Rushkoff,Get Back in the Box: Innovation from the Inside Out
+John Ruskin,The Genius of John Ruskin: Selections from His Writings
 Bertrand Russell,Introduction to Mathematical Philosophy
 Marquis de Sade,Juliette
 J.D. Salinger,The Catcher in the Rye
@@ -893,6 +909,7 @@ Aarti Namdev Shahani,"Here We Are: American Dreams, American Nightmares"
 William Shakespeare,The Complete Works of William Shakespeare Volume 1
 John Shand,Philosophy and Philosophers: An Introduction to Western Philosophy
 S.G. Shanker,Gödel's Theorem in Focus
+Tom Shanley,Protected Mode Software Architecture
 "Claude E Shannon, Warren Weaver, Shannon",The Mathematical Theory of Communication
 "Robert Shapard, James Thomas",Flash Fiction Forward: 80 Very Short Stories
 "Dave Shea, Molly E. Holzschlag",The Zen of CSS Design: Visual Enlightenment for the Web
@@ -917,10 +934,12 @@ Dan Simmons,Olympos
 Dan Simmons,The Rise of Endymion
 Dan Simmons,Song of Kali
 Dan Simmons,The Terror: A Novel
+Dan Simmons,Worlds Enough & Time: Five Tales of Speculative Fiction
 Scott Simon,"Unforgettable: A Son, a Mother, and the Lessons of a Lifetime"
 Simon Singh,The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
 George Singleton,The Half-Mammals of Dixie
 Eric Sink,Eric Sink on the Business of Software
+"Steven Sinofsky, Marco Iansiti","One Strategy: Organization, Planning, and Decision Making"
 Evan Slater,Swell: A Year of Waves
 "Mark Smith, Timothy A. Howes Ph.D.",LDAP: Programming Directory-Enabled Apps
 Richard E. Smith,Internet Cryptography
@@ -1011,6 +1030,8 @@ John Kennedy Toole,A Confederacy of Dunces
 "Linus Torvalds, David Diamond",Just for Fun: The Story of an Accidental Revolutionary
 Nick Tosches,Where Dead Voices Gather
 Bruce Tremper,"Staying Alive in Avalanche Terrain, 2nd Ed."
+Henri Troyat,Tolstoy a Biography.
+Zeynep Tufekci,Twitter and Tear Gas: The Power and Fragility of Networked Protest
 Edward R. Tufte,Beautiful Evidence
 Edward R. Tufte,Envisioning Information
 Edward R. Tufte,The Visual Display of Quantitative Information
@@ -1030,6 +1051,7 @@ Jeff VanderMeer,Finch
 Jeff VanderMeer,Shriek: An Afterword
 Jeff VanderMeer,The Third Bear
 Jeff VanderMeer,Veniss Underground
+JEFF VANDERMEER,ACCEPTANCE
 Abraham Verghese,Cutting for Stone
 Vernor Vinge,The Children of the Sky
 Vernor Vinge,The Collected Stories of Vernor Vinge
