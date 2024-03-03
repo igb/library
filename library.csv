@@ -1,10 +1,6 @@
 creator,title
-,
-,
-,
 ,Baseball: A Literary Anthology
 ,Noise: Fiction Inspired by Sonic Youth
-,Poetry 180: A Turning Back to Poetry
 Edwin A. Abbott,Flatland: A Romance of Many Dimensions
 Kobo Abe,The Box Man: A Novel
 Kobo Abe,The Woman in the Dunes
@@ -217,18 +213,6 @@ Robert A. Caro,The Passage of Power: The Years of Lyndon Johnson
 Robert A. Caro,The Path to Power
 Robert A. Caro,The Power Broker: Robert Moses and the Fall of New York
 Robert A. Caro,Working
-John le Carré,Call for the Dead: A George Smiley Novel
-John le Carré,The Honourable Schoolboy
-John le Carré,The Looking Glass War: A George Smiley Novel
-John le Carré,A Most Wanted Man: A Novel
-John le Carré,The Naïve and Sentimental Lover: A Novel
-John le Carré,Our Kind of Traitor: A Novel
-John le Carré,A Perfect Spy: A Novel
-John le Carré,The Pigeon Tunnel: Stories from My Life
-John le Carré,A Small Town in Germany: A Novel
-John le Carré,Smiley's People: A George Smiley Novel
-John le Carré,The Spy Who Came in from the Cold: A George Smiley Novel
-John le Carré,"Tinker, Tailor, Soldier, Spy: A George Smiley Novel"
 John Carreyrou,Bad Blood: Secrets and Lies in a Silicon Valley Startup
 Scott Carrier,Running After Antelope
 Anne Carson,Autobiography of Red
@@ -272,6 +256,7 @@ Andrei Codrescu,Zombification: Stories from National Public Radio
 Leonard Cohen,Beautiful Losers
 "Colette, Robert Phelps",Earthly Paradise: An Autobiography of Colette Drawn from Her Lifetime Writings
 Billy Collins,"Picnic, Lightning"
+Billy Collins,Poetry 180: A Turning Back to Poetry
 "Jim Collins, Jerry I. Porras",Built to Last: Successful Habits of Visionary Companies
 Maryse Conde,Traversee de la Mangrove
 Benjamin Constant,Adolphe
@@ -336,6 +321,7 @@ Wendy Doniger,The Hindus: An Alternative History
 Fyodor Dostoyevsky,The Brothers Karamazov
 Arthur Conan Doyle,The Original Illustrated Sherlock Holmes
 Peter F. Drucker,The Effective Executive: The Definitive Guide to Getting the Right Things Done
+"Duane, Daniel",Caught Inside: A Surfer's Year on the California Coast
 Lena Dunham,"Not That Kind of Girl: A Young Woman Tells You What She's ""Learned"""
 Mark Dunn,Ella Minnow Pea: A Novel in Letters
 Marguerite Duras,Moderato Cantabile
@@ -394,6 +380,7 @@ Wan Fokkink,Distributed Algorithms: An Intuitive Approach
 Paul Ford,"Gary Benchley, Rock Star by Paul Ford"
 Chad Fowler,The Passionate Programmer: Creating a Remarkable Career in Software Development
 "Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts",Refactoring: Improving the Design of Existing Code
+"Fowler, Susan",Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber
 Anatole France,THE CRIME OF SYLVESTRE BONNARD by ANATOLE FRANCE
 Jonathan Franzen,The End of the End of the Earth: Essays
 "Freeman, James, McKinley, Vern","Borrowed Time: Two Centuries of Booms, Busts, and Bailouts at Citi"
@@ -408,6 +395,7 @@ Neil Gaiman,Anansi Boys
 "Neil Gaiman, Terry Pratchett","Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch"
 Neil Gaiman,Neverwhere
 Neil Gaiman,The Ocean at the End of the Lane: A Novel
+"Gaiman, Neil",The Sandman Book One
 Neil Gaiman,Stardust
 "Neil Gaiman, Al Sarrantonio",Stories: All-New Tales
 Martin Gardner,My Best Mathematical and Logic Puzzles
@@ -477,6 +465,7 @@ Graham Greene,Our Man in Havana: An Entertainment
 Graham Greene,The Third Man
 Philip Greenspun,Philip & Alex's Guide to Web Publishing
 Dr. John Gribbin,The Birth of Time: How Astronomers Measured the Age of the Universe
+"Griffin, Tren",Charlie Munger: The Complete Investor
 Alain Robbe Grillet,Les Gommes
 "Richard Grimmett, Carol Inskipp, Tim Inskipp","Birds of India, Pakistan, Nepal, Bangladesh, Bhutan, Sri Lanka and the Maldives"
 John Grisham,The Associate: A Novel
@@ -485,6 +474,7 @@ Lev Grossman,The Magicians: A Novel
 Andrew S. Grove,High Output Management
 Sara Gruen,Water for Elephants: A Novel
 Ursula  K. Le Guin,The Lathe Of Heaven: A Novel
+Ursula K. Le Guin,The Dispossessed: A Novel
 Ursula K. Le Guin,The Left Hand of Darkness
 J. Richard Hackman,Leading Teams: Setting the Stage for Great Performances
 Mark Haddon,The Curious Incident of the Dog in the Night-Time
@@ -574,6 +564,7 @@ Mike Isaac,Super Pumped: The Battle for Uber
 A. J. Jacobs,The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World
 Henry James,The Golden Bowl
 P.D. James,Death Comes to Pemberley
+"Janeway, William H.","Doing Capitalism in the Innovation Economy: Reconfiguring the Three-Player Game between Markets, Speculators and the State"
 N. K. Jemisin,The Broken Kingdoms
 "Jemisin, N. K.",The City We Became: A Novel
 N. K. Jemisin,The Fifth Season
@@ -626,6 +617,7 @@ Tracy Kidder,The Soul of A New Machine
 "Jaegwon Kim, Ernest Sosa",A Companion to Metaphysics
 Jaegwon Kim,Philosophy Of Mind
 "King Jr., Dr. Martin Luther",The Radical King
+"Kipling, Rudyard",The Adventures Of Mowgli
 Rudyard Kipling,Kim
 Walter Kirn,Up in the Air
 "Klabnik, Steve, Nichols, Carol","The Rust Programming Language, 2nd Edition"
@@ -645,6 +637,7 @@ Karl Ove Knausgaard,My Struggle: Book 3
 James Knowlson,Damned to Fame: The Life of Samuel Beckett
 Jonathan Knudsen,Java 2D Graphics: Creating High Quality Graphics & Text
 Donald E. Knuth,"The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition"
+"Kolchin, Peter",American Slavery: 1619-1877
 Matt Kracht,The Field Guide to Dumb Birds of North America
 Richard Kraut,The Cambridge Companion to Plato
 Saul A. Kripke,Naming and Necessity
@@ -659,11 +652,27 @@ Jen Lancaster,"Bitter is the New Black: Confessions of a Condescending, Egomania
 Phil Lapsley,Exploding the Phone: The Untold Story of the Teenagers and Outlaws who Hacked Ma Bell
 Erik Larson,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America"
 Stieg Larsson,The Girl Who Played with Fire
+"le Carré, John",Agent Running in the Field: A Novel
+"le Carré, John",Call for the Dead: A George Smiley Novel
+"le Carré, John",A Delicate Truth
+"le Carré, John",The Honourable Schoolboy
+"le Carré, John",A Legacy of Spies: A Novel
 "le Carré, John",The Little Drummer Girl: A Novel
+"le Carré, John",The Looking Glass War: A George Smiley Novel
+"le Carré, John",A Most Wanted Man: A Novel
 "le Carré, John",A Murder of Quality: A George Smiley Novel
+"le Carré, John",The Naïve and Sentimental Lover: A Novel
+"le Carré, John",The Night Manager: A Novel
+"le Carré, John",Our Kind of Traitor: A Novel
+"le Carré, John",A Perfect Spy: A Novel
+"le Carré, John",The Pigeon Tunnel: Stories from My Life
+"le Carré, John",The secret pilgrim
+"le Carré, John",A Small Town in Germany: A Novel
+"le Carré, John",Smiley's People: A George Smiley Novel
 "le Carré, John",The Spy Who Came in from the Cold: A George Smiley Novel
-"Le Carre, John.",The secret pilgrim
-"Le Guin, Ursula K.",The Dispossessed: A Novel
+"le Carré, John",The Spy Who Came in from the Cold: A George Smiley Novel
+"le Carré, John",The Tailor of Panama: A Novel
+"le Carré, John","Tinker, Tailor, Soldier, Spy: A George Smiley Novel"
 Ann Leckie,Ancillary Justice
 Ann Leckie,Ancillary Mercy
 Ann Leckie,Ancillary Sword
@@ -674,6 +683,7 @@ Harper Lee,Go Set a Watchman: A Novel
 "Rosanna Lee, Scott Seligman",JNDI API Tutorial and Reference: Building Directory-Enabled Java¿ Applications
 Dennis Lehane,Sacred
 Fritz Leiber,The Big Time
+"Leiber, Fritz",The Night of the Long Knives
 Fritz Leiber,Selected Stories
 Michel Leiris,L'Age D'Homme
 Stanislaw Lem,The Chain of Chance
@@ -697,10 +707,15 @@ Mikhail Lermontov,Hero of our Time (Everyman's Library (Paper))
 Jonathan Lethem,"Gun, with Occasional Music"
 Steven Levy,Artificial Life: A Report from the Frontier Where Computers Meet Biology
 Leonard C. Lewin,Report from Iron Mountain
+"Lewis, C. S.","The Horse and His Boy, Full-Color Collector's Edition"
 C. S. Lewis,The Last Battle
+"Lewis, C. S.","The Lion, the Witch and the Wardrobe"
 C. S. Lewis,"The Magician's Nephew, Collector's Edition"
 "Lewis, C. S.",Prince Caspian: The Return to Narnia
+"Lewis, C. S.",The Voyage of the Dawn Treader
 "John Lewis, William Loftus",Java Software Solutions
+"John Lewis, Andrew Aydin",March: Book One
+"John Lewis, Aydin, Andrew",March: Book Two
 Michael Lewis,The Big Short: Inside the Doomsday Machine
 Michael Lewis,Flash Boys
 Michael Lewis,Liar's Poker
@@ -713,10 +728,13 @@ Mark Leyner,"Et Tu, Babe"
 Mark Leyner,"My Cousin, My Gastroenterologist: A novel"
 "Tim Lindholm, Frank Yellin",The Java™ Virtual Machine Specification
 Beth Lisick,Everybody into the Pool: True Tales
+"Lispector, Clarice",Complete Stories
+"Lithgow, John",Dumpty: The Age of Trump in Verse
 Cixin Liu,The Dark Forest
 Cixin Liu,Death's End
 Cixin Liu,The Three-Body Problem
 "Liu, Cixin",The Wandering Earth
+"Liu, Ken",Invisible Planets: Contemporary Chinese Science Fiction in Translation
 Larry Livermore,How To Ru(i)n A Record Label: The Story of Lookout Records
 "John Locke, George Berkeley, David Hume",The Empiricists: Locke: Concerning Human Understanding; Berkeley: Principles of Human Knowledge & 3 Dialogues; Hume: Concerning Human Understanding & Concerning Natural Religion
 Lomography.com,Lomography.com
@@ -760,6 +778,7 @@ Paris Marx,Road to Nowhere: What Silicon Valley Gets Wrong about the Future of T
 Guy De Maupassant,Boule De Suif Et Autres Nouvelles
 Pete McBreen,Software Craftsmanship: The New Imperative
 Cormac McCarthy,No Country for Old Men
+"McCord, Patty",Powerful
 Ian McDonald,Ares Express
 Ian McDonald,Cyberabad Days
 Ian McDonald,The Dervish House
@@ -811,6 +830,8 @@ Simon Sebag Montefiore,Stalin: The Court of the Red Tsar
 Montesquieu,Lettres Persanes
 Alan Moore,Illuminations: Stories
 Geoffrey A. Moore,"Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers"
+"Moore, Geoffrey A.",Zone to Win: Organizing to Compete in an Age of Disruption
+"Moore, Lorrie",Birds of America
 Paul Morand,Champions du Monde
 Nick Morgan,Javascript pour les Kids
 Desmond Morris,The Human Zoo
@@ -827,6 +848,7 @@ Vladimir Nabokov,Speak Memory an Autobiography By Vladimir Nabokov
 Sequoia Nagamatsu,How High We Go in the Dark: A Novel
 "Ernest Nagel, James R. Newman",Godel's Proof
 Manini Nayar,Being Here: Stories
+"Nerburn, Kent",Dancing with the Gods: Reflections on Life and Art
 Annalee Newitz,The Terraformers
 "Friedrich Nietzsche, Walter Kaufmann",Basic Writings of Nietzsche
 Friedrich Nietzsche,Philosophical Writings: Friedrich Nietzsche
@@ -837,6 +859,7 @@ Peter Norvig,Paradigms of Artificial Intelligence Programming: Case Studies in C
 Joyce Carol Oates,"Wild Nights! Deluxe Edition: Stories About the Last Days of Poe, Dickinson, Twain, James, and Hemingway"
 Chris Okasaki,Purely Functional Data Structures
 "Andy Oram, Greg Wilson",Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly))
+"Orr, Marissa","Lean Out: The Truth About Women, Power, and the Workplace"
 George Orwell,1984
 George Orwell,Animal Farm
 Jason Ouellette,Development with the Force.com Platform: Building Business Applications in the Cloud
@@ -850,7 +873,6 @@ Matt Pearson,Generative Art: A Practical Guide Using Processing
 "Jerry Peek, Tim O'Reilly, Mike Loukides",UNIX  PowerTools
 "Roger Penrose, Martin Gardner","The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics"
 Charles Perrault,Contes
-"Elizabeth Xu Ph.D., Patricia Zimmerman",Myths of the Promotion: 10 Steps to a Successful Career
 Tom Phillips,"A Humument: A Treated Victorian Novel, Fourth Edition"
 James Smith Pierce,From Abacus to Zeus 5ED
 Thomas Piketty,Capital in the Twenty First Century
@@ -913,6 +935,7 @@ Matt Ridley,The Red Queen: Sex and the Evolution of Human Nature
 "Riordan, Rick","Heroes of Olympus, The, Book Four: House of Hades, The-"
 Mary Roach,Stiff: The Curious Lives of Human Cadavers
 Arnold Robbins,vi Editor Pocket Reference (Pocket Reference (O'Reilly))
+"Roberts, Andrew",Churchill: Walking with Destiny
 Kim Stanley Robinson,Aurora
 Kim Stanley Robinson,The Ministry for the Future: A Novel
 Lawrence H. Rodrigues,"Building Imaging Applications with Java(TM) Technology: Using AWT Imaging, Java 2D(TM), and Java(TM) Advanced Imaging (JAI)"
@@ -929,6 +952,7 @@ Salman Rushdie,Two Years Eight Months and Twenty-Eight Nights: A Novel
 Douglas Rushkoff,Get Back in the Box: Innovation from the Inside Out
 Bertrand Russell,Introduction to Mathematical Philosophy
 Marquis de Sade,Juliette
+"Saint-Exupery, Antoine",The Little Prince
 J.D. Salinger,The Catcher in the Rye
 Sheryl Sandberg,"Lean In: Women, Work, and the Will to Lead"
 Aksel Sandemose,The Werewolf
@@ -948,6 +972,7 @@ George Saunders,The Braindead Megaphone
 George Saunders,The Brief and Frightening Reign of Phil
 George Saunders,CivilWarLand in Bad Decline
 George Saunders,In Persuasion Nation
+"Saunders, George",Lincoln in the Bardo: A Novel
 George Saunders,Tenth of December: Stories
 "Elias E. Savellos, Umit D. Yalcin",Supervenience: New Essays
 John Scalzi,Kaiju Preservation Society
@@ -974,10 +999,12 @@ David Sedaris,Me Talk Pretty One Day
 David Sedaris,When You Are Engulfed in Flames
 "Robert Sedgewick, Kevin Wayne",Algorithms
 Robert Sedgewick,"Algorithms in Java, Part 5: Graph Algorithms"
+"Sedgewick, Robert","Algorithms in Java, Parts 1-4"
 "Toby Segaran, Jeff Hammerbacher",Beautiful Data: The Stories Behind Elegant Data Solutions
 Toby Segaran,Programming Collective Intelligence: Building Smart Web 2.0 Applications
 Peter Seibel,Coders at Work: Reflections on the Craft of Programming
 Lucius Annaeus Seneca,Letters from a Stoic
+"Shahani, Aarti Namdev","Here We Are: American Dreams, American Nightmares"
 William Shakespeare,The Complete Works of William Shakespeare Volume 1
 John Shand,Philosophy and Philosophers: An Introduction to Western Philosophy
 S.G. Shanker,Gödel's Theorem in Focus
@@ -1004,23 +1031,24 @@ Dan Simmons,Olympos
 Dan Simmons,The Rise of Endymion
 Dan Simmons,Song of Kali
 Dan Simmons,The Terror: A Novel
+"Simmons, Dan",Worlds Enough & Time: Five Tales of Speculative Fiction
 Scott Simon,"Unforgettable: A Son, a Mother, and the Lessons of a Lifetime"
 Simon Singh,The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
 George Singleton,The Half-Mammals of Dixie
 Eric Sink,Eric Sink on the Business of Software
+"Sinofsky, Steven, Iansiti, Marco","One Strategy: Organization, Planning, and Decision Making"
 Evan Slater,Swell: A Year of Waves
 "Mark Smith, Timothy A. Howes Ph.D.",LDAP: Programming Directory-Enabled Apps
-Peter Smith,John Le Carre's A Perfect Spy
-Peter Smith,John Le Carre's A Perfect Spy
-Peter Smith,John Le Carre's A Perfect Spy
 Richard E. Smith,Internet Cryptography
 Kevin Smokler,Bookmark Now: Writing in Unreaderly Times: A Collection of All Original Essays from Today's (and Tomorrow's) Young Authors on the State of the Art ... Hustle--in the Age of Information Overload
 Dava Sobel,Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time
 Mark G. Sobell,A Practical Guide to the UNIX System
+"Solnit, Rebecca",Call Them by Their True Names: American Crises
 Rebecca Solnit,Infinite City: A San Francisco Atlas
 Rebecca Solnit,Men Explain Things to Me
 Rebecca Solnit,Men Explain Things to Me
 Rebecca Solnit,A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster
+"Solnit, Rebecca",Recollections of My Nonexistence: A Memoir
 Rebecca Solnit,Wanderlust: A History of Walking
 Susan Sontag,Death Kit
 Susan Sontag,On Photography
@@ -1081,6 +1109,7 @@ Patrick Suskind,Perfume: The Story of a Murderer
 Mikkel Svane,Startupland: How Three Guys Risked Everything to Turn an Idea into a Global Business
 David F. Swenson,Something About Kierkegaard
 Jean-Yves Tadie,Marcel Proust: Biographie
+"Tagore, Rabindranath",Gitanjali
 "Tagore, Rabindranath",Selected Short Stories
 David Talbot,"Season of the Witch: Enchantment, Terror, and Deliverance in the City of Love"
 Nassim Nicholas Taleb,Antifragile: Things That Gain from Disorder
@@ -1099,9 +1128,12 @@ James Tiptree Jr.,Her Smoke Rose Up Forever
 Alvin Toffler,Future Shock
 John Toland,Adolf Hitler Vol II
 John Toland,"Adolf Hitler, Vol. 1"
+J. R. R. Tolkien,The Hobbit
 John Kennedy Toole,A Confederacy of Dunces
 "Linus Torvalds, David Diamond",Just for Fun: The Story of an Accidental Revolutionary
+"Tosches, Nick",Where Dead Voices Gather
 Bruce Tremper,"Staying Alive in Avalanche Terrain, 2nd Ed."
+"Tufekci, Zeynep",Twitter and Tear Gas: The Power and Fragility of Networked Protest
 Edward R. Tufte,Beautiful Evidence
 Edward R. Tufte,Envisioning Information
 Edward R. Tufte,The Visual Display of Quantitative Information
@@ -1113,6 +1145,7 @@ John Updike,Rabbit Is Rich
 John Updike,Rabbit Redux
 John Updike,"Rabbit, Run"
 Leon Uris,Trinity
+"VanderMeer, Jeff",Acceptance: A Novel
 Jeff VanderMeer,Annihilation: A Novel
 Jeff VanderMeer,Authority: A Novel
 Jeff VanderMeer,Borne: A Novel
@@ -1142,6 +1175,7 @@ Kurt Vonnegut,Cat's Cradle: A Novel
 Kurt Vonnegut,Galapagos: A Novel
 Kurt Vonnegut,"God Bless You, Mr. Rosewater"
 Kurt Vonnegut,Player Piano: A Novel
+"Vonnegut, Kurt",The Sirens of Titan: A Novel
 Kurt Vonnegut,Slaughterhouse-Five
 Kurt Vonnegut,Slaughterhouse-Five: A Novel
 Kurt Vonnegut,"Wampeters, Foma & Granfalloons:"
@@ -1159,6 +1193,7 @@ M. Mitchell Waldrop,Complexity: The Emerging Science at the Edge of Order and Ch
 "Craig Walls, Ryan Breidenbach",Spring in Action
 "David Ward, Noel Radomski",Proud Traditions and Future Challenges: The University of Wisconsin–Madison Celebrates 150 Years
 Dean Wareham,Black Postcards: A Rock & Roll Romance
+Michael D. Watkins,"The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded"
 "Weidensaul, Scott",A World on the Wing: The Global Odyssey of Migratory Birds
 "David Weinberger, Rick Levine, Christopher Locke, Doc Searls",The Cluetrain Manifesto
 "Weir, Andy",Artemis: A Novel
@@ -1191,9 +1226,11 @@ Virginia Woolf,Mrs. Dalloway
 Virginia Woolf,A Room of One's Own
 J. Patrick Wright,On a Clear Day You Can See General Motors: John Z. DeLorean's Look Inside the Automotive Giant
 "Wyndham, John",The Day of the Triffids
+"Wyndham, John",The Kraken Wakes
 John Wyndham,The Midwich Cuckoos
 John Wyndham,Stowaway to Mars
 "Wyndham, John",Trouble with Lichen
+"Xu, Elizabeth ",Myths of the Promotion: 10 Steps to a Successful Career
 "Yamauchi, Owen",Hack and HHVM: Programming Productivity Without Breaking Things
 Toby Young,How to Lose Friends & Alienate People
 Nicholas C. Zakas,Professional JavaScript for Web Developers
